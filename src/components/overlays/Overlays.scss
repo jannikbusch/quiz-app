@@ -1,0 +1,42 @@
+
+.overlay-container {
+  &.hide {
+    display: none;
+  }
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+
+  z-index: 999;
+
+  .overlay {
+    height: 100%;
+    width: 100%;
+
+    cursor: pointer;
+
+    position: relative;
+    div {
+      position: absolute;
+      top: 289px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 80%;
+      max-width: 245px;
+
+      h1 {
+        font-size: 21px;
+        margin-bottom: 4px;
+      }
+
+    }
+
+    &.red {
+      background-color: var(--red);
+    }
+
+    &.green {
+      background-color: var(--green);
+    }
+  }
+}

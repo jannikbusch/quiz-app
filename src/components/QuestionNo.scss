@@ -1,0 +1,18 @@
+.pageNo-area {
+  position: fixed;
+  top: -79px;
+  left: -19px;
+  @media (min-width: 378px) {
+    left: 50%;
+    transform: translateX(-210px);
+  }
+  width: 100px;
+
+  z-index: 9999;
+
+  .pageNo {
+    font-size: 210px;
+    font-family: futura-pt-bold, sans-serif;
+    font-style: normal;
+  }
+}

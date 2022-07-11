@@ -1,0 +1,61 @@
+[{
+  "topic": "Basics",
+  "question": "What is known as the brain of the computer?",
+  "correctAnswer": "Central Processing Unit",
+  "wrongAnswers": [
+    "Peripherals",
+    "Graphical Processing Unit",
+    "Motherboard"
+  ]
+},
+  {
+    "topic": "Webdevelopment",
+    "question": "What does the acronym HTML stand for?",
+    "correctAnswer": "Hypertext Markup Language",
+    "wrongAnswers": [
+      "Hypertext Mockup Language",
+      "Hypertext Mockup Level",
+      "Hypertext Markup Level"
+    ]
+  },
+  {
+    "topic": "Webdevelopment",
+    "question": "What Design-Pattern is React built on?",
+    "correctAnswer": "Composite Pattern",
+    "wrongAnswers": [
+      "Model View Controller",
+      "Prototype Pattern",
+      "Interceptor Pattern"
+    ]
+  },
+  {
+    "topic": "IT-Security",
+    "question": "What is the program NMAP mainly used for?",
+    "correctAnswer": "Discover hosts and services of a computer network.",
+    "wrongAnswers": [
+      "Resolve the IP-adress of a given domain.",
+      "Perform a man in the middle attack.",
+      "Perform a DDoS attack."
+    ]
+  },
+  {
+    "topic": "Webdevelopment",
+    "question": "What does the acronym CSS stand for?",
+    "correctAnswer": "Cascading Style Sheets",
+    "wrongAnswers": [
+      "Crazy Style Sheets",
+      "Cascading Style Scripts",
+      "Cascading Scripting Sheets"
+    ]
+  },
+  {
+    "topic": "Cloud Computing",
+    "question": "What does IaaS stand for?",
+    "correctAnswer": "Infrastructure as a Service",
+    "wrongAnswers": [
+      "Internet as a Server",
+      "Internet as a Service",
+      "Infrastructure as a Server"
+    ]
+  }
+]
